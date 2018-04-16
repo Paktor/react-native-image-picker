@@ -1,7 +1,11 @@
 {
   "name": "react-native-image-picker",
   "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
+<<<<<<< HEAD
   "version": "0.26.7-2",
+=======
+  "version": "0.26.72",
+>>>>>>> release/v0.27.72
   "main": "index.js",
   "repository": {
     "type": "git",
